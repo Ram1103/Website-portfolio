@@ -1,4 +1,4 @@
-/* Generated on: Fri Jul 22 2022 16:36:14 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Fri Jul 22 2022 16:45:12 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -215,7 +215,7 @@ figcaption {
   opacity: 1;
   font-family: Montserrat, sans-serif;
   font-size: 25px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .button {
